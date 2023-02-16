@@ -1,6 +1,5 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/MateusHenriqDaSilva/2b1a823bca71579edc985be0e153c46c/raw/ba394f204a90c5e3e42cb37fd5fe549866555144/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mateus Henrique</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer & Artificial Intelligence 
 
