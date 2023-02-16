@@ -6,7 +6,6 @@
 
 - 🔭 In search of new opportunities
 
-
 - 💬 Ask me about **JavaScript, Typescript, HTML, CSS, SQL, Node.JS, Python**
 
 - 👨‍💻 More at (https://www.mateushenrique.blog.br/)
